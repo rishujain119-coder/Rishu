@@ -1,15 +1,7 @@
 {
-  "show": true,
-  "force": true,
-  "version_name": "3.7.8",
-  "version_code": 3.7.8,
-  "title": " Update Available! ",
-  "message": "Click the UPDATE button to download the latest version",
+  "version": "3.7.7",
+  "title": "New Version Available v3.7.8",
+  "subtitle": "● Bug fixes and improvements\n● Improved stability‍\n● Better performance\n● New features added\n\nClick the UPDATE button to download the latest version",
   "update_url": "https://t.me/QuickAppRishu",
-  "changelog": [
-    "● Bug fixes and improvements",
-    "● New features added",
-    "● Better performance"
-    "● Improved stability‍"
-  ]
+  "show_close_button": false
 }
