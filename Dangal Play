@@ -2,7 +2,7 @@
   "show": true,
   "force": true,
   "version_name": "2.3.0",
-  "version_code": 2,
+  "version_code": 2.3.0,
   "title": " Update Available! ",
   "message": "Click the UPDATE button to download the latest version",
   "update_url": "https://t.me/QuickAppRishu",
