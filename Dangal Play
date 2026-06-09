@@ -1,0 +1,15 @@
+{
+  "show": true,
+  "force": true,
+  "version_name": "2.0.0",
+  "version_code": 2,
+  "title": " Update Available! ",
+  "message": "Click the UPDATE button to download the latest version",
+  "update_url": "https://t.me/QuickAppRishu",
+  "changelog": [
+    "● Bug fixes and improvements",
+    "● New features added",
+    "● Better performance"
+    "● Improved stability‍"
+  ]
+}
