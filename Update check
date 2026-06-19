@@ -1,4 +1,9 @@
 {
-  "versionCode": 2,
-  "downloadUrl": "https://t.me/QuickAppRishu"
+  "versionCode": 9999,
+  "downloadUrl": "https://t.me/QuickAppRishu",
+  "dialogTitle": "Update Available!",
+  "moddedBy": "Modded by RISHU~MODZ",
+  "whatsNewTitle": "What's New",
+  "features": "• Premium Features Unlocked\n• High Speed Download Added\n• All Server Crashes Fixed\n• Anti-Ban Protection Implemented",
+  "noticeText": "Click the UPDATE button to download."
 }
